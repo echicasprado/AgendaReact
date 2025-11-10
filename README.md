@@ -21,6 +21,7 @@ yarn create vite my-app --template react <br>
 yarn add -D tailwindcss postcss autoprefixer @tailwindcss/vite <br>
 yarn add workbox-window <br>
 yarn add prop-types <br>
+yarn add -D vite-plugin-pwa <br>
 
 # Agregar archivo
 tailwind.config.js
