@@ -24,4 +24,5 @@ yarn add prop-types <br>
 yarn add -D vite-plugin-pwa <br>
 
 # Agregar archivo
-tailwind.config.js
+tailwind.config.js<br>
+postcss.config.js
